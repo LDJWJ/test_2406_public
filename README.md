@@ -43,9 +43,6 @@ print(10)
 print("Hello")
 ```
 
-### 동영상 삽입
-<iframe width="896" height="504" src="https://www.youtube.com/watch?v=hsOFtdQIWZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### Line Breaks 줄바꿈
 | 클래스 이름 | 내용 | 저장소 링크 |
@@ -61,6 +58,5 @@ print("Hello")
   * 제목
      * 소제목
          * 소제목
-
 
 
