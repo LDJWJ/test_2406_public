@@ -1,3 +1,16 @@
+### 오늘의 나의 프로그램
+ 
+### Pandas 데이터 분석
+ * 내용 : IRIS 데이터 셋을 이용한 데이터 분석
+ * ![data](./data-unsplash.jpg)
+  
+ * 파일명 : pandas_pra.ipynb
+ * [코드보기](./pandas_pra.ipynb)
+
+
+
+
+
 # test_2406_public
 Public Repo, 한글..
 
